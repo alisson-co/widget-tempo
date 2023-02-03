@@ -91,7 +91,7 @@ Colaboradores que desvolveram o projeto:
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#scan)<br>
+[⬆ Voltar ao topo](#widget-tempo)<br>
 <!--
 ## 📝 Licença
 
