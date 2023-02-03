@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-wrapper{
+    width: 50vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+
+    background-color: blue;
+    border-radius: 25px;
+}
+
+.main-content{
+    display: flex;
+    width: 90%;
+}
+
+.main-content-column{
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 2%;
+    text-align: center;
+
+    background-color: yellow;
+}
